@@ -2,3 +2,4 @@ Bencher-Scenario-Caller-*
 .build
 *~
 nytprof*
+.DS_Store
